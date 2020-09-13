@@ -1,5 +1,5 @@
 # Ansible
-# ansible_user: gopi
+# ansible_user: root
 
 # Kubernetes
 kube_version: v1.19
